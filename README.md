@@ -9,4 +9,4 @@
 
 ## About Laravel
 
-Projeto feito em laravel 
+Projeto feito em laravel com <strong> dashboard </strong> administrativo funcional
